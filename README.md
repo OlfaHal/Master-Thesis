@@ -35,7 +35,7 @@ pip install -r requirements.txt
 1. Clone the Repository:
 
 ```bash
-git clone [<repository_url>](https://github.com/OlfaHal/Master-Thesis.git)
+git clone https://github.com/OlfaHal/Master-Thesis.git
 cd Master-Thesis
 ```
 2. Set Up the Environment: Create a virtual environment and install the required packages.
