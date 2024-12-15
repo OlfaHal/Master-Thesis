@@ -3,7 +3,7 @@
 
 This project combines Graph Neural Networks (GNNs) with Large Language Models (LLMs) to explore advanced machine learning techniques for analyzing and processing structured and unstructured data. The primary focus is to leverage the complementary strengths of GNNs and LLMs to enhance predictions, extract insights, or solve complex tasks involving graph-structured and textual data.
 
-### Features and Objectives
+## Features and Objectives
 
 Integration of GNNs and LLMs: Develop a unified approach to harness the power of both models.
 
@@ -15,7 +15,7 @@ Text Processing: Utilize LLMs for advanced natural language understanding.
 
 End-to-End Pipeline: Comprehensive processing from data loading to model evaluation.
 
-Requirements
+## Requirements
 
 To run this project, ensure the following dependencies are installed:
 
@@ -41,7 +41,7 @@ Install the dependencies using:
 
 pip install -r requirements.txt
 
-How to Use
+## How to Use
 
 Clone the Repository:
 
@@ -63,7 +63,7 @@ jupyter notebook "GNN+LLM.ipynb"
 Run the Cells:
 Execute the notebook cells sequentially to reproduce the results.
 
-Structure
+## Structure
 
 The notebook is organized into the following sections:
 
@@ -95,13 +95,13 @@ Visualizations: Graph plots, embeddings, or loss curves.
 
 Key Insights: Brief summary of findings, e.g., how GNN and LLM integration improves predictions.
 
-References
+## References
 
 Research papers, articles, or frameworks used in the project.
 
 Documentation for libraries and tools employed.
 
-Contact
+## Contact
 
 For any questions or feedback, reach out to the project maintainer:
 
@@ -111,7 +111,7 @@ Email: [Your Email]
 
 LinkedIn/GitHub: [Your Profile]
 
-License
+## License
 
 This project is licensed under the [License Name] license. See LICENSE for more details.
 
