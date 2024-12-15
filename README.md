@@ -43,12 +43,12 @@ pip install -r requirements.txt
 
 ## How to Use
 
-Clone the Repository:
+1. Clone the Repository:
 
 git clone <repository_url>
 cd <repository_folder>
 
-Set Up the Environment:
+2. Set Up the Environment:
 Create a virtual environment and install the required packages.
 
 python -m venv venv
