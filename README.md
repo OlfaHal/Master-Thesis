@@ -1,5 +1,5 @@
 # Master-Thesis
-Project Description
+# Project Description
 
 This project combines Graph Neural Networks (GNNs) with Large Language Models (LLMs) to explore advanced machine learning techniques for analyzing and processing structured and unstructured data. The primary focus is to leverage the complementary strengths of GNNs and LLMs to enhance predictions, extract insights, or solve complex tasks involving graph-structured and textual data.
 
