@@ -29,3 +29,26 @@ To run this project, ensure the following dependencies are installed:
 Install the dependencies using:
 ```bash
 pip install -r requirements.txt
+```
+### How to Use
+
+1. Clone the Repository:
+
+```bash
+git clone <repository_url>
+cd <repository_folder>
+```
+2. Set Up the Environment: Create a virtual environment and install the required packages.
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\\Scripts\\activate
+pip install -r requirements.txt
+```
+3. Open the Notebook: Launch the Jupyter Notebook.
+
+```bash
+jupyter notebook "GNN+LLM.ipynb"
+```
+4. Run the Cells: Execute the notebook cells sequentially to reproduce the results.
+
