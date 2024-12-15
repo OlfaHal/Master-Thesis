@@ -1,4 +1,4 @@
-# GNN + LLM Integration
+# Master Thesis: GNN + LLM Integration
 
 ## Project Description
 This project combines Graph Neural Networks (GNNs) with Large Language Models (LLMs) to explore advanced machine learning techniques for analyzing and processing structured and unstructured data.
@@ -35,8 +35,8 @@ pip install -r requirements.txt
 1. Clone the Repository:
 
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone [<repository_url>](https://github.com/OlfaHal/Master-Thesis.git)
+cd Master-Thesis
 ```
 2. Set Up the Environment: Create a virtual environment and install the required packages.
 
