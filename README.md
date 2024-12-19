@@ -1,4 +1,4 @@
-# Master Thesis: GNN + LLM Integration
+# Master Thesis: GNN and LLM Integration for Fraud Detection
 
 ## Project Description
 This project combines Graph Neural Networks (GNNs) with Large Language Models (LLMs) to explore advanced machine learning techniques for analyzing and processing structured and unstructured data.
